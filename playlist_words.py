@@ -1,7 +1,7 @@
 import streamlit as st
 import random
 
-words = ['bacon', 'cheese', "choc", "curry", "wowser"]
+words = ["Romantic", "Lust", "One-sided", "Obsessive", "Dead-end", "Platonic", "Toxic", "Hate-love", "Tough"]
 
 def give_output(encrypted = None):
     if encrypted[0] is not None:
